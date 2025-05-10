@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, mi nombre es Camilo Medina, soy estudiante de desarrollo web en CODERHOUSE.<br>Quiero crear herramientas sencillas para gestión gastronómica u otros proyectos de desarrollo en cualquier área.<br>Me gusta la tecnología y la fotografia.
+Full-Stack Web Developer Student with 8 years of experience as a cuisine manager. Proficient in key web development technologies, including HTML, CSS, and JavaScript, with hands-on experience in creating user-friendly interfaces using React, Tailwind, and UI libraries. Familiar in Java for building APIs with Spring Boot and prompting techniques with Python. Currently learning NextJs and Node Js for backend development. A passionate, responsible, and self-taught individual, adapts easily to collaborative environments for solving challenges within a team setting. Dedicated to delivering high-quality software solutions and committed to staying updated with the latest trends in web development.
 
 
 ## 🌐 Socials:
